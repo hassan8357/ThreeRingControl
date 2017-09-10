@@ -1,9 +1,4 @@
 # ThreeRingControl
-===================
-
-[![Build Status](https://travis-ci.org/ninjaprox/NVActivityIndicatorView.svg?branch=master)](https://travis-ci.org/ninjaprox/NVActivityIndicatorView)
-
-# ThreeRingControl
 The three-ring is a completely customizable widget that can be used in any iOS app. It also plays a little victory fanfare.
 
 ## Screenshot
@@ -32,6 +27,9 @@ Then, run the following command.
 ```bash
 $ pod install
 ```
+
+# Reference
+https://www.raywenderlich.com/126365/ios-frameworks-tutorial
 
 ## Contact
 
