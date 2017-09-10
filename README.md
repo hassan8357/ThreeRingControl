@@ -2,7 +2,6 @@
 ===================
 
 [![Build Status](https://travis-ci.org/ninjaprox/NVActivityIndicatorView.svg?branch=master)](https://travis-ci.org/ninjaprox/NVActivityIndicatorView)
-[![Cocoapods Compatible](https://img.shields.io/cocoapods/v/NVActivityIndicatorView.svg)](https://img.shields.io/cocoapods/v/NVActivityIndicatorView.svg)
 
 # ThreeRingControl
 The three-ring is a completely customizable widget that can be used in any iOS app. It also plays a little victory fanfare.
